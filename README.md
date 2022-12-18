@@ -60,7 +60,7 @@ The following python libraries are required to be installed in spyder (from the 
 3.	Last, write the correct path of the CLEFIP2011 test collection in the database_creation_part_2_public.py and run it - it parses the XML patent files from the CLEFIP2011 test collection and populates the database tables with their data as defined by the various rules created in this python script
 
 
-**CLEFIP-0.54M-Kamateri**
+**CLEFIP-0.54M**
 
 The dataset contains 6 csv files with data coming from 541,131 patents. Each csv file has two columns; the main IPC code at level-4 column and the text from a patent field, i.e., abstract, description, claims, title, applicants and inventors. 
 
