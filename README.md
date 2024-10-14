@@ -60,7 +60,7 @@ The following python libraries are required to be installed in spyder (from the 
 3.	Last, write the correct path of the CLEFIP2011 test collection in the database_creation_part_2_public.py and run it - it parses the XML patent files from the CLEFIP2011 test collection and populates the database tables with their data as defined by the various rules created in this python script
 
 
-**CLEFIP-0.54M dataset (https://github.com/ekamater/CLEFIP-0.54M)**
+**CLEFIP-0.54M dataset**
 
 This dataset has been created querying and extracting data from the created CLEFIP 2011 MySQL database. 
 
@@ -68,4 +68,4 @@ The dataset contains 6 csv files with data coming from 541,131 patents. Each csv
 
 This content comes from the latest documents/versions of these 541,131 patents that have simultaneously an EN abstract, EN description, EN claims, EN title, applicants and inventors. Moreover, the text of EN abstract, EN description, and EN claims has undergone a further preprocessing removing any character that is not alphabetic and removing English stopwords. 
 
-The dataset is available in the following link: https://drive.google.com/drive/folders/1tfBsUkQwIpwwgDyw28EOZctaiiJqZr1Q?usp=sharing
+The dataset is available in the following link: https://github.com/ekamater/CLEFIP-0.54M
