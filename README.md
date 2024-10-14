@@ -1,4 +1,4 @@
-# CLEFIP2011_XML2MySQL
+# CLEFIP2011 XML2MySQL
 Although the CLEFIP2011 text collection (http://www.ifs.tuwien.ac.at/~clef-ip/download/2011/index.shtml) is a well-known benchmark in the field of Information Retrieval and Text Classification, there is currently no available coding to transfer it in a MySQL database that can make it easily accessed.
 
 In this repository, someone can find the code to create a database, named clefip2011, and the code to parse the CLEFIP2011 text collection and populate the clefip2011 database's tables with this content. Moreover, the CLEFIP-0.54M-Kamateri dataset is released which has been created using the clefip2011 database.
@@ -60,7 +60,7 @@ The following python libraries are required to be installed in spyder (from the 
 3.	Last, write the correct path of the CLEFIP2011 test collection in the database_creation_part_2_public.py and run it - it parses the XML patent files from the CLEFIP2011 test collection and populates the database tables with their data as defined by the various rules created in this python script
 
 
-**CLEFIP-0.54M link: https://github.com/ekamater/CLEFIP-0.54M **
+**CLEFIP-0.54M - link: https://github.com/ekamater/CLEFIP-0.54M**
 
 The dataset contains 6 csv files with data coming from 541,131 patents. Each csv file has two columns; the main IPC code at level-4 column and the text from a patent field, i.e., abstract, description, claims, title, applicants and inventors. 
 
