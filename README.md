@@ -1,7 +1,7 @@
 # CLEFIP2011 XML2MySQL
 Although the CLEFIP2011 text collection (http://www.ifs.tuwien.ac.at/~clef-ip/download/2011/index.shtml) is a well-known benchmark in the field of Information Retrieval and Text Classification, there is currently no available coding to transfer it in a MySQL database that can make it easily accessed.
 
-In this repository, someone can find the code to create a database, named clefip2011, and the code to parse the CLEFIP2011 text collection and populate the clefip2011 database's tables with this content. Moreover, the CLEFIP-0.54M-Kamateri dataset is released which has been created using the clefip2011 database.
+In this repository, someone can find the code to create a database, named clefip2011, and the code to parse the CLEFIP2011 text collection and populate the clefip2011 database's tables with this content. Moreover, a CLEFIP-0.54M dataset is released which has been created using the clefip2011 database.
 
 **Code description**
 
